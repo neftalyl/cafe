@@ -1,6 +1,6 @@
-# Cafe
+# Cafe: Etapa de Semillero
 
-## *Códigos de los tratamientos evaluados en el experimento de efecto en germinación-semillero.*
+## __Códigos de los tratamientos evaluados en el experimento de efecto en germinación-semillero.__
 
 - __Fecha montaje:__ Marzo 30 de 2012
 - __Lugar:__ UdeA-Andes
